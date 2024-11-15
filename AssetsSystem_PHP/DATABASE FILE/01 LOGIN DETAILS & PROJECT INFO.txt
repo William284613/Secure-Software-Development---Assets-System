@@ -1,0 +1,14 @@
+**Admin Login Details**
+
+Username: admin
+Password: 12345
+
+**Special User Login Details**
+
+Username: Special@1234
+Password: Special@1234
+
+**User(Employee) Login Details**
+
+Username: Test@1234
+Password: Test@1234
